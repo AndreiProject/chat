@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="center" prefHeight="370.0" prefWidth="309.0" spacing="5"
+      fx:id="mainReg"
+      stylesheets="@/css/style.css"
+      xmlns="http://javafx.com/javafx/10.0.2-internal"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.user.controller.RegController">
+
+    <Label text="Login"/>
+    <TextField fx:id="loginField" promptText="login"/>
+    <Label text="Password"/>
+    <PasswordField fx:id="passwordField" promptText="password"/>
+    <Label text="Nick_Name"/>
+    <TextField fx:id="nicknameField" promptText="nickname"/>
+    <HBox alignment="center" spacing="10">
+        <padding>
+            <Insets bottom="20" left="15.0" right="15.0" top="25"/>
+        </padding>
+        <Button onAction="#tryToReg" text="Создать аккаунт"/>
+        <Button onAction="#clickCancelBtn" text="Отмена"/>
+    </HBox>
+    <Label fx:id="errorReg" text="Error" visible="false"/>
+</VBox>

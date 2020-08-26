@@ -1,0 +1,96 @@
+INFO: 01:58:34 - Сервер запущен!
+INFO: 01:58:46 - socket.getRemoteSocketAddress(): /127.0.0.1:63198
+INFO: 01:58:46 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 01:58:46 - Клиент подключился
+INFO: 01:58:46 - Клиент 1 подключился 
+
+INFO: 02:15:53 - Сервер запущен!
+INFO: 02:16:10 - socket.getRemoteSocketAddress(): /127.0.0.1:63229
+INFO: 02:16:10 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 02:16:10 - Клиент подключился
+INFO: 02:16:10 - Клиент 1 подключился 
+
+INFO: 02:16:32 - socket.getRemoteSocketAddress(): /127.0.0.1:63238
+INFO: 02:16:32 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 02:16:32 - Клиент подключился
+INFO: 02:16:35 - Клиент 2 подключился 
+
+INFO: 02:17:27 - Сервер запущен!
+INFO: 02:17:56 - socket.getRemoteSocketAddress(): /127.0.0.1:63261
+INFO: 02:17:56 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 02:17:56 - Клиент подключился
+INFO: 02:17:56 - Клиент 1 подключился 
+
+INFO: 02:18:43 - Клиент отключился
+INFO: 11:34:56 - Сервер запущен!
+INFO: 11:35:17 - socket.getRemoteSocketAddress(): /127.0.0.1:65517
+INFO: 11:35:17 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 11:35:17 - Клиент подключился
+INFO: 11:35:17 - Клиент 1 подключился 
+
+INFO: 11:35:41 - socket.getRemoteSocketAddress(): /127.0.0.1:65527
+INFO: 11:35:41 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 11:35:41 - Клиент подключился
+INFO: 11:35:41 - Клиент 2 подключился 
+
+INFO: 11:36:30 - socket.getRemoteSocketAddress(): /127.0.0.1:49154
+INFO: 11:36:30 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 11:36:30 - Клиент подключился
+INFO: 11:36:32 - Клиент 3 подключился 
+
+INFO: 11:37:45 - Клиент отключился
+INFO: 11:37:50 - socket.getRemoteSocketAddress(): /127.0.0.1:49162
+INFO: 11:37:50 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 11:37:50 - Клиент подключился
+INFO: 11:37:50 - Клиент 3 подключился 
+
+INFO: 11:37:53 - Клиент отключился
+INFO: 11:38:03 - Клиент отключился
+INFO: 11:38:04 - Клиент отключился
+INFO: 11:38:31 - Сервер запущен!
+INFO: 11:39:21 - socket.getRemoteSocketAddress(): /127.0.0.1:49185
+INFO: 11:39:21 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 11:39:21 - Клиент подключился
+INFO: 11:39:21 - Клиент 3 подключился 
+
+INFO: 11:39:25 - Клиент отключился
+INFO: 11:44:18 - Сервер запущен!
+INFO: 11:46:57 - socket.getRemoteSocketAddress(): /127.0.0.1:49208
+INFO: 11:46:57 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 11:46:57 - Клиент подключился
+INFO: 11:46:57 - Клиент 1 подключился 
+
+INFO: 11:47:22 - socket.getRemoteSocketAddress(): /127.0.0.1:49217
+INFO: 11:47:22 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 11:47:22 - Клиент подключился
+INFO: 11:47:25 - Клиент 2 подключился 
+
+INFO: 11:47:36 - Клиент отключился
+INFO: 11:47:37 - Клиент отключился
+INFO: 12:00:03 - Сервер запущен!
+INFO: 12:09:13 - Сервер запущен!
+INFO: 12:09:27 - socket.getRemoteSocketAddress(): /127.0.0.1:49278
+INFO: 12:09:27 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 12:09:27 - Клиент подключился
+INFO: 12:09:28 - Клиент 1 подключился 
+
+INFO: 12:09:43 - socket.getRemoteSocketAddress(): /127.0.0.1:49287
+INFO: 12:09:43 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 12:09:43 - Клиент подключился
+INFO: 12:09:44 - Клиент 3 подключился 
+
+INFO: 12:09:49 - Клиент отключился
+INFO: 12:09:51 - Клиент отключился
+INFO: 12:29:08 - Сервер запущен!
+INFO: 12:29:29 - socket.getRemoteSocketAddress(): /127.0.0.1:50726
+INFO: 12:29:29 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 12:29:29 - Клиент подключился
+INFO: 12:29:29 - Клиент 1 подключился 
+
+INFO: 12:29:47 - socket.getRemoteSocketAddress(): /127.0.0.1:50756
+INFO: 12:29:47 - socket.getLocalSocketAddress() /127.0.0.1:8189
+INFO: 12:29:47 - Клиент подключился
+INFO: 12:29:47 - Клиент 3 подключился 
+
+INFO: 12:29:59 - Клиент отключился
+INFO: 12:30:00 - Клиент отключился
